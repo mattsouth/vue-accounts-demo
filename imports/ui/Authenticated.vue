@@ -8,8 +8,6 @@
 </template>
 
 <script>
-import { Meteor } from 'meteor/meteor';
-
 export default {
   computed: {
     usersName() {
